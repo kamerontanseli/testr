@@ -6,7 +6,7 @@ A small testing library for the browser
 Include the `test.js` file:
 
 ```html
-  <script src="https://cdn.rawgit.com/kamerontanseli/testr/master/test.js"></script>
+  <script src="https://cdn.rawgit.com/kamerontanseli/testr/master/build/test.min.js"></script>
 ```
 
 Standard Test:
